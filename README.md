@@ -1,2 +1,5 @@
 # keiko-corp
-The greatest company ever created
+
+An experiment in optimizing a SPA for speed.
+
+In progress...follow this repo for updates
